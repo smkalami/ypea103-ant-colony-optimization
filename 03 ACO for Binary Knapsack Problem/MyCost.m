@@ -35,6 +35,6 @@ function [z, sol] = MyCost(x, model)
     sol.W0 = W0;
     sol.Violation = Violation;
     sol.z = z;
-    sol.IsFeasible = (Violation =  = 0);
+    sol.IsFeasible = (Violation == 0);
 
 end
