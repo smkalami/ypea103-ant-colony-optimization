@@ -1,7 +1,7 @@
 # Ant Colony Optimization in MATLAB
 
-<p align = "center">
-    <img src = "https://yarpiz.com/wp-content/uploads/2015/09/ypea103-ant-colony-optimization.jpg" alt = "Ant Colony Optimization in MATLAB">
+<p align="center">
+    <img src="https://yarpiz.com/wp-content/uploads/2015/09/ypea103-ant-colony-optimization.jpg" alt="Ant Colony Optimization in MATLAB">
 </p>
 
 This is an implementation of Ant Colony Optimization (ACO) in MATLAB.
