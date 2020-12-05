@@ -20,6 +20,6 @@ function j = RouletteWheelSelection(P)
     
     C = cumsum(P);
     
-    j = find(r< = C, 1, 'first');
+    j = find(r <= C, 1, 'first');
 
 end
